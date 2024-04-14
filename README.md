@@ -1,17 +1,20 @@
-# パスワード生成
+# ログインフォーム
 
 ## Use
 
-Java Script と CSS を使ってアコーディオン開閉させます。
+画像付きログインフォーム。
 
 ## Directory Hierarchy
 
 ```
+|—— imgs
+     |—— facebook.png
+     |—— github.png
+     |—— google.png
 |—— index.html
-|—— script.js
 |—— style.css
 ```
 
 ## Demo
 
-<a href="https://edkw.github.io/js-accordion/" target="_blank">https://edkw.github.io/js-accordion/</a>
+<a href="https://edkw.github.io/css-login/" target="_blank">https://edkw.github.io/css-login/</a>
